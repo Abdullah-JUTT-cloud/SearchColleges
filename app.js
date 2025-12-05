@@ -27,3 +27,7 @@ async function getColleges(country){
         console.log(error);
     }
 }
+btn.addEventListener("click",()=>{
+    let input=document.querySelector("input");
+    input.value="";
+});
