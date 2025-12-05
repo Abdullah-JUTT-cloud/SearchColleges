@@ -53,7 +53,7 @@
 //     input.value="";
 // });
 
-let url = "http://universities.hipolabs.com/search?name=";
+let url = "https://universities.hipolabs.com/search?name=";
 let btn = document.querySelector("button");
 
 window.addEventListener('load', () => {
